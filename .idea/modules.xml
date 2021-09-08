@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ques1andAues2.iml" filepath="$PROJECT_DIR$/.idea/modules/Ques1andAues2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ques3.iml" filepath="$PROJECT_DIR$/.idea/modules/Ques3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit-Integration-Tesing Assignment.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit-Integration-Tesing Assignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Unit-Integration-Tesing Assignment-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Unit-Integration-Tesing Assignment-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_1.iml" filepath="$PROJECT_DIR$/.idea/modules/module_1.iml" />
     </modules>
   </component>
 </project>

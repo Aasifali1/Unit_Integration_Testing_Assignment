@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="Unit-Integration-Tesing Assignment,module_1,module_2,ques1,ques3" />
+    <profile name="sbt 1" modules="Ques1andAues2,Ques3,Unit-Integration-Tesing Assignment,module_1,module_2,ques1,ques3" />
   </component>
 </project>

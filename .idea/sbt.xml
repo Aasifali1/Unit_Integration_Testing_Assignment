@@ -8,6 +8,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/module_1" />
+            <option value="$PROJECT_DIR$/module_2" />
             <option value="$PROJECT_DIR$/project" />
           </set>
         </option>
